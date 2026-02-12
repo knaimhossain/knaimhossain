@@ -6,11 +6,13 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<br clear="both">
+
+<img align="right" height="230" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJuZWsybXU3eXRrOTI3aTAwbXdwYm1obGxvcnF0d28xd3ozM3c1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"  />
 
 ###
 
-<img align="right" height="195" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BzbTN5ZHlxdzN2NnFhZWoyMDVkdXlrYXNjaGU2Z2R6b3dhY2JhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"  />
+<h2 align="left">About me</h2>
 
 ###
 
@@ -29,13 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
@@ -81,7 +77,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/knaimhossain/knaimhossain/output/snake.svg" alt="Snake animation" />
+<img align="left" height="286" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc0NGhnMGg5NXJueGtmb3J3djBrM2MydzN0cXd5cXRibW9xOXdhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mRyfscDuCGvt4JRoS7/giphy.gif"  />
 
 ###
 
